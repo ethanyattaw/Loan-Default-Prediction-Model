@@ -26,7 +26,7 @@ This project focuses on predicting loan defaults using a dataset containing vari
    - Presented confusion matrices for detailed error analysis.
   
 6. **Acknowledgements**:
-   - Dataset Source: The dataset used in this project is from [Kaggle]([url](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data)).
+   - Dataset Source: The dataset used in this project is from [Kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data).
   
 
 ## Results
