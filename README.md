@@ -25,6 +25,9 @@ This project focuses on predicting loan defaults using a dataset containing vari
    - Assessed both models on Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
    - Presented confusion matrices for detailed error analysis.
   
+6. **Acknowledgements**:
+   - Dataset Source: The dataset used in this project is from [Kaggle]([url](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data)).
+  
 
 ## Results
 
@@ -37,3 +40,4 @@ This project focuses on predicting loan defaults using a dataset containing vari
 | **ROC-AUC**           | 0.923254            | 0.988098      |
 
 - The XGBoost model achieved robust accuracy, outperforming Logistic Regression across all metrics.
+
